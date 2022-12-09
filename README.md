@@ -3,5 +3,5 @@
 I'm Maciej - frontend developer from Cracow 🇵🇱 currently working in [ReasonApps](https://www.reasonapps.pl/).
 
 How to reach me:
-- 👔 [LinkedIn](https://www.linkedin.com/in/mszostaq/ "Maciej Szostak | LinkedIn")
-- 📫 [maciek.szostak55@gmail.com](mailto:maciek.szostak55@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mszostaq/ "Maciej Szostak | LinkedIn")
+- [maciek.szostak55@gmail.com](mailto:maciek.szostak55@gmail.com)
